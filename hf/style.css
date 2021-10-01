@@ -1,35 +1,3 @@
-/*
-#587b7f
-#1e2019
-#394032
-#8dab7f
-#cfee9e
-#eef4d4
-#1c2826
-#1b3022
-#395756
-#4f5d75
-#22181c
-#312f2f
-#fffaff
-#7681b3
-#1e1b18
-#f8f9fa
-#e9ecef
-#dee2e6
-#ced4da
-#adb5bd
-#6c757d
-#495057
-#343a40
-#212529
-#cad2c5
-#84a98c
-#52796f
-#354f52
-#2f3e46
-*/
-
 * {
     margin: 0;
     padding: 0;
@@ -44,7 +12,7 @@ html {
     min-height: 100vh;
     width: 100%;
     background-image: linear-gradient(rgba(3, 6, 19, 0.78),
-    rgba(3, 6, 19, 0.78)),url(images/wall1.png);
+    rgba(3, 6, 19, 0.78)),url(./wall1.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -349,7 +317,7 @@ nav .fas {
     width: 60%;
     float: left;
     background-image: linear-gradient(rgba(0,0,0,0.4),
-    rgba(0,0,0,0.4)), url(./images/ccc06.png);
+    rgba(0,0,0,0.4)), url(./ccc06.png);
     background-position: center;
     background-size: cover;
     border-radius: 5px;
@@ -362,7 +330,7 @@ nav .fas {
     width: 60%;
     float: right;
     background-image: linear-gradient(rgba(0,0,0,0.4),
-    rgba(0,0,0,0.4)), url(./images/ccc07.png);
+    rgba(0,0,0,0.4)), url(./ccc07.png);
     background-position: center;
     background-size: cover;
     border-radius: 5px;
@@ -375,7 +343,7 @@ nav .fas {
     width: 60%;
     float: left;
     background-image: linear-gradient(rgba(0,0,0,0.4),
-    rgba(0,0,0,0.4)), url(./images/ccc09.png);
+    rgba(0,0,0,0.4)), url(./ccc09.png);
     background-position: center;
     background-size: cover;
     border-radius: 5px;
@@ -388,7 +356,7 @@ nav .fas {
     width: 60%;
     float: right;
     background-image: linear-gradient(rgba(0,0,0,0.4),
-    rgba(0,0,0,0.4)), url(./images/aaa13.jpg);
+    rgba(0,0,0,0.4)), url(./aaa13.jpg);
     background-position: cover;
     background-size: cover;
     border-radius: 3px;
@@ -501,14 +469,6 @@ form {
     text-decoration: none;
     color: #001825;
 }
-
-
-
-
-
-
-
-
 
 .footer {
     background-color: #e4e4e4;
